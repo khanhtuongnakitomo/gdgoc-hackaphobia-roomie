@@ -1,4 +1,22 @@
-# Roomie 🏠
+# Roomie
+
+**Roommate and rental matching for Vietnamese university students.**
+
+A team-built application combining roommate compatibility, rental listings, semantic search, and chat. This fork preserves the [original team project](https://github.com/UniverseScripts/gdgoc-hackaphobia-roomie).
+
+![Roomie](frontend/public/Logo_Extended.png)
+
+[Live demo](https://hackaphobia-roomie.web.app/) · [Team repository](https://github.com/UniverseScripts/gdgoc-hackaphobia-roomie) · [My portfolio](https://github.com/khanhtuongnakitomo)
+
+## My contribution
+
+I contributed backend router refactoring: [recorded change](https://github.com/UniverseScripts/gdgoc-hackaphobia-roomie/commit/c73067d1ef76d17da06f0bb762eacebac0150e4b).
+
+**Stack:** FastAPI, React, Firebase/Firestore, and Vertex AI embeddings. The matching, search, and chat features are the team's combined implementation. The developer documentation below covers architecture, setup, APIs, and deployment dependencies.
+
+---
+
+## Developer documentation
 
 > **The smart roommate-finding platform for Vietnamese students.**
 > Roomie connects university students with compatible roommates and verified rental listings using AI-powered personality matching and semantic search.
